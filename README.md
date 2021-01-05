@@ -1,6 +1,6 @@
 # Subspace-based Feature Fusion from Hyperspectral and Multispectral Images for Pixel-based Classification
 
-Juan Marcos Ramírez, Héctor Vargas, José Ignacio Martínez Torre, and Henry Arguello.
+Juan Ramírez, Héctor Vargas, José I. Martínez-Torre, and Henry Arguello.
 
 ## Supplementary material
 
@@ -35,3 +35,17 @@ This simulation can take several hours.
 ## License
 
 This code package is licensed under the GNU GENERAL PUBLIC LICENSE (version 3) - see the [LICENSE](LICENSE) file for details
+
+## Authors
+
+* Héctor Miguel Vargas García. PhD Student. Electrical Engineering Department. [Universidad Industrial de Santander](http://www.uis.edu.co). Bucaramanga, Colombia.
+* Juan Marcos Ramírez Rondón. GET-Cofund MSCA Fellow. Computer Science Department. [Universidad Rey Juan Carlos](http://www.urjc.es). Móstoles, 28938, Spain. 
+
+### Contact
+
+[Juan Marcos Ramirez](juanmarcos.ramirez@ujrc.es)
+
+## Date
+
+January 25, 2021
+

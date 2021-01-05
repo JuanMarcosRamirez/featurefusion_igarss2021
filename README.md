@@ -14,3 +14,4 @@ This demo runs in MATLAB using:
 
 	>> demo_pavia.m
 
+![Drag Racing](image/demo_image.jpg)

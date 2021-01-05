@@ -42,7 +42,7 @@ lambdaTV      = [0.0001,...
 
 %% parameaters of classification experirments
 nTrn         = 50;                                                         % number of training samples
-nRlz         = 2;                                                          % number of realizations
+nRlz         = 5;                                                          % number of realizations
 
 %% Analysis of Parameters
 for ii = 1 : length(numFeatures)

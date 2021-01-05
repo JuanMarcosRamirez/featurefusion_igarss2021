@@ -14,4 +14,4 @@ This demo runs in MATLAB using:
 
 	>> demo_pavia.m
 
-![Demo image](.images/demo_image.jpg?raw=true "Title")
+![Demo image](https://github.com/JuanMarcosRamirez/featurefusion_igarss2021/blob/main/images/demo_image.jpg?raw=true "Title")

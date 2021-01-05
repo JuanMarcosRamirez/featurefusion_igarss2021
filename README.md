@@ -29,7 +29,7 @@ Warning: this simulation can take several hours.
 
 ### Platform
 
-* Ubuntu 18.04 Operating System, MATLAB R2018a
+* Ubuntu 18.04 Operating System, MATLAB R2020a
 
 
 ## License

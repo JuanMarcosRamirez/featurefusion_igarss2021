@@ -4,5 +4,9 @@ Juan Marcos Ramírez, Héctor Vargas, José Ignacio Martínez Torre, and Henry A
 
 ## Supplementary material
 
-### Demo for Pavia University cropped image
+### How to run the code
+
+Download and uncompress the `featurefusion_igarss2021` folder. To generate Figures and Tables in the paper, under **MATLAB** environment, navigate to the `featurefusion_igarss2021` folder and follow the instructions described below
+
+#### Demo for Pavia University cropped image
 

@@ -10,3 +10,7 @@ Download and uncompress the `featurefusion_igarss2021` folder. To generate Figur
 
 #### Demo for Pavia University cropped image
 
+This demo runs in MATLAB using: 
+
+	>> demo_pavia.m
+

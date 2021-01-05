@@ -14,4 +14,4 @@ This demo runs in MATLAB using:
 
 	>> demo_pavia.m
 
-![Demo image](.images/demo_image.jpg)
+![Demo image](.images/demo_image.jpg?raw=true "Title")

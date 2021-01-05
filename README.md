@@ -22,6 +22,16 @@ To generate Figure 1, run:
 
 	>> generate_fig1.m
 
-This simulation can spent several hours.
+This simulation can take several hours.
 
 ![Demo image](https://github.com/JuanMarcosRamirez/featurefusion_igarss2021/blob/main/images/fig1_image.jpg?raw=true "Figure 1")
+
+
+### Platform
+
+* Ubuntu 18.04 Operating System, MATLAB R2018a
+
+
+## License
+
+This code package is licensed under the GNU GENERAL PUBLIC LICENSE (version 3) - see the [LICENSE](LICENSE) file for details

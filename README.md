@@ -2,3 +2,7 @@
 
 Juan Marcos Ramírez, Héctor Vargas, José Ignacio Martínez Torre, and Henry Arguello.
 
+## Supplementary material
+
+### Demo for Pavia University cropped image
+

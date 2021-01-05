@@ -22,7 +22,7 @@ To generate Figure 1, run:
 
 	>> generate_fig1.m
 
-This simulation can take several hours.
+Warning: this simulation can take several hours.
 
 ![Demo image](https://github.com/JuanMarcosRamirez/featurefusion_igarss2021/blob/main/images/fig1_image.jpg?raw=true "Figure 1")
 

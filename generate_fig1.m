@@ -1,3 +1,24 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Generate Figure 1
+%   
+%   Reference:
+%
+%   [1] Juan Ramirez, Hector Vargas, Jose I, Martinez, and Henry Arguello,
+%   Subspace-based Feature Fusion from Hyperspectral and Multispectral
+%   Images for Pixel-based Classification.
+%
+%   Authors:
+%   Hector Miguel Vargas Garcia, PhD Student.
+%   Universidad Industrial de Santander, Bucaramanga, Colombia
+%   email: Hvargas121288@gmail.com 
+%   Juan Marcos Ramirez, PhD.
+%   Universidad Rey Juan Carlos, Mostoles, Madrid, Spain
+%   email: juanmarcos.ramirez@urjc.es juanmarcos26@gmail.com
+%
+%   Date:
+%   January, 2021
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 clc
 clear
 close all

@@ -27,6 +27,14 @@ Warning: this simulation can take several hours.
 ![Demo image](https://github.com/JuanMarcosRamirez/featurefusion_igarss2021/blob/main/images/fig1_image.jpg?raw=true "Figure 1")
 
 
+#### Demo for Houston University cropped image
+
+This demo runs in MATLAB using: 
+
+	>> demo_houston.m
+
+![Demo image](https://github.com/JuanMarcosRamirez/featurefusion_igarss2021/blob/main/images/demo_houston.jpg?raw=true "Demo houston")
+
 ### Platform
 
 * Ubuntu 18.04 Operating System, MATLAB R2020a
